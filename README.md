@@ -14,3 +14,6 @@ Exercício de HTML abordando:
 ## Como visualizar
 
 Abra o arquivo `index.html` em qualquer navegador moderno.
+
+---
+[Ver online](https://mirandaromario09.github.io/estudo-html-favicon-imagem)
